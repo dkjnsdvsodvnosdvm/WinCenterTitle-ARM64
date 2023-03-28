@@ -1,7 +1,7 @@
 # WinCenterTitle-ARM64
 这里是放置未完工的ARM64版的WinCenterTitle
 ### TODO
-1.解决WinCenterTitle的显示BUG
+1.解决WinCenterTitle的渲染BUG
 
 2.添加WinCenterTitle对arm64的支持（funchook库已支持WindowsARM64，将在4月1日开始构建ARM版本）
 
